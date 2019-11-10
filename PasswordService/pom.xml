@@ -82,7 +82,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>ie.gmit.ds.ServerSetup.main</mainClass>
+                            <mainClass>ie.gmit.ds.ServerSetup</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

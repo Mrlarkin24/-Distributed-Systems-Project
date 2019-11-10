@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d904e7-4a49-4928-b5f1-39d316b73c1d" name="Default Changelist" comment="" />
+    <list default="true" id="27d904e7-4a49-4928-b5f1-39d316b73c1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PasswordService.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/PasswordService.jar" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573419600533</updated>
       <workItem from="1573419602001" duration="131000" />
-      <workItem from="1573419769966" duration="8074000" />
+      <workItem from="1573419769966" duration="8337000" />
     </task>
     <servers />
   </component>
