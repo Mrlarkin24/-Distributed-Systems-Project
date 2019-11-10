@@ -1,5 +1,6 @@
 ie\gmit\ds\ValidateInput.class
 ie\gmit\ds\PasswordServiceGrpc$1.class
+ie\gmit\ds\ServerSetup.class
 ie\gmit\ds\PasswordServiceGrpc$PasswordServiceMethodDescriptorSupplier.class
 ie\gmit\ds\PasswordServiceGrpc$MethodHandlers.class
 ie\gmit\ds\Inventory.class
@@ -16,6 +17,7 @@ ie\gmit\ds\HashInput.class
 ie\gmit\ds\PasswordServiceGrpc$PasswordServiceFileDescriptorSupplier.class
 ie\gmit\ds\HashInput$Builder.class
 ie\gmit\ds\HashOutput$Builder.class
+ie\gmit\ds\ServerSetup$1.class
 ie\gmit\ds\HashOutputOrBuilder.class
 ie\gmit\ds\PasswordServiceGrpc$PasswordServiceBaseDescriptorSupplier.class
 ie\gmit\ds\ValidateInput$1.class
